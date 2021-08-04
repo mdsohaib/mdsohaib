@@ -33,12 +33,8 @@
 <code><img height="30" src="https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2-1024x616.jpg"></code>
 <hr>
 
-<details>
-  <summary>:GitHub Stats</summary>
 
+  <summary>GitHub Stats</summary>
   <img align="left" alt="Md Sohaib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mdsohaib&show_icons=true&hide_border=true" />
-
-
-</details>
 
 [linkedin]: linkedin.com/in/mdsohaib
