@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Md Sohaib 
 
-## I'm a Managing Director and Data Scientist at Pianalytix
+## I'm a Data Scientist at Pianalytix
 <img align="left" alt="GIF" src="https://media1.tenor.com/images/72a9ce1fe0e4b94d46684ad710b27c13/tenor.gif" width="230px" />
 
 -📝Bachelor of Engineering from Osmania University ,MJCET, Osmania University, Hyderabad.<br><br>
