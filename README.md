@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Md Sohaib 
 
-## I'm a Data Scientist at Pianalytix
+## I'm a Data Scientist
 <img align="left" alt="GIF" src="https://media1.tenor.com/images/72a9ce1fe0e4b94d46684ad710b27c13/tenor.gif" width="230px" />
 
+-📝Pursuing MS(Management Information Systems) from Northern Illinois University, IL, USA.<br><br>
 -📝Bachelor of Engineering from Osmania University ,MJCET, Osmania University, Hyderabad.<br><br>
 -📝Diploma in engineering from Govt. Polytechnic, Warangal <br>
 
