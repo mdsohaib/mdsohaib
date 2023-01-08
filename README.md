@@ -3,16 +3,10 @@
 ## I'm a Data Scientist
 <img align="left" alt="GIF" src="https://media1.tenor.com/images/72a9ce1fe0e4b94d46684ad710b27c13/tenor.gif" width="230px" />
 
--📝Pursuing MS(Management Information Systems) from Northern Illinois University, IL, USA.<br><br>
--📝Bachelor of Engineering from Osmania University ,MJCET, Osmania University, Hyderabad.<br><br>
-
-
-### Connect with me:
-
-
-[<img align="left" alt="LinkedIn" width="34px" src="https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/02/LinkedIn.jpg" />  ][Linkedin] 
-[<'Linkedin' src='linkedin.com/in/mdsohaib/' />]
-
+📝Pursuing Master of Science: Management Information Systems
+Northern Illinois University - DeKalb, IL, USA <br><br>
+📝Bachelor of Engineering: Mechanical Engineering
+Osmania University - Hyderabad, India <br><br>
 
 <br />
 
