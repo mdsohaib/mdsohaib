@@ -10,7 +10,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/02/LinkedIn.jpg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2020/02/LinkedIn.jpg" />][https://www.linkedin.com/in/mdsohaib/]
 
 
 <br />
