@@ -5,7 +5,6 @@
 
 -📝Pursuing MS(Management Information Systems) from Northern Illinois University, IL, USA.<br><br>
 -📝Bachelor of Engineering from Osmania University ,MJCET, Osmania University, Hyderabad.<br><br>
--📝Diploma in engineering from Govt. Polytechnic, Warangal <br>
 
 
 ### Connect with me:
