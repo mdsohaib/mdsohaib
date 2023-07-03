@@ -5,7 +5,6 @@
 
 📝Pursuing Master of Science: Management Information Systems From Northern Illinois University - DeKalb, IL, USA <br><br>
 📝Bachelor of Engineering: Mechanical Engineering From Osmania University - Hyderabad, India <br><br>
-
 <br />
 
 ### Tools & Technologies:
