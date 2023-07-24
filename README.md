@@ -3,7 +3,7 @@
 ## I'm a Data Scientist
 <img align="left" alt="GIF" src="https://media1.tenor.com/images/72a9ce1fe0e4b94d46684ad710b27c13/tenor.gif" width="230px" />
 
-📝Pursuing Master of Science: Management Information Systems From Northern Illinois University - DeKalb, IL, USA <br><br>
+📝Master of Science: Management Information Systems From Northern Illinois University - IL, USA <br><br>
 📝Bachelor of Engineering: Mechanical Engineering From Osmania University - Hyderabad, India <br><br>
 <br />
 
