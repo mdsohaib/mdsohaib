@@ -19,8 +19,6 @@
 <code><img height="30" src="https://it.wisc.edu/wp-content/uploads/Google-Cloud-Platform-900x400-1.jpg"></code>
 <code><img height="30" src="https://i0.wp.com/cybersophia.net/wp-content/uploads/2020/12/Kali-Linux-2020.4.png"></code>
 <code><img height="30" src="https://images-na.ssl-images-amazon.com/images/I/51nO6qkDxcS.png"></code>
-<code><img height="30" src="https://miro.medium.com/max/2000/1*PCKC8Ufml-wvb9Vjj3aaWw.jpeg"></code>
-<code><img height="30" src="https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2-1024x616.jpg"></code>
 <hr>
 
 
